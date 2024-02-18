@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/inventory-mangement/static/css/main.20c0fb91.css",
-    "main.js": "/inventory-mangement/static/js/main.e838b66c.js",
+    "main.css": "/inventory-mangement/static/css/main.9a7f0e52.css",
+    "main.js": "/inventory-mangement/static/js/main.bce3acd9.js",
     "static/js/787.9548eca1.chunk.js": "/inventory-mangement/static/js/787.9548eca1.chunk.js",
-    "static/media/backvideo.mp4": "/inventory-mangement/static/media/backvideo.fdc6fd8bbcb76f443536.mp4",
+    "static/media/backvideo12.mp4": "/inventory-mangement/static/media/backvideo12.93da5e2334c7f7bd0bd5.mp4",
     "index.html": "/inventory-mangement/index.html",
-    "main.20c0fb91.css.map": "/inventory-mangement/static/css/main.20c0fb91.css.map",
-    "main.e838b66c.js.map": "/inventory-mangement/static/js/main.e838b66c.js.map",
+    "main.9a7f0e52.css.map": "/inventory-mangement/static/css/main.9a7f0e52.css.map",
+    "main.bce3acd9.js.map": "/inventory-mangement/static/js/main.bce3acd9.js.map",
     "787.9548eca1.chunk.js.map": "/inventory-mangement/static/js/787.9548eca1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20c0fb91.css",
-    "static/js/main.e838b66c.js"
+    "static/css/main.9a7f0e52.css",
+    "static/js/main.bce3acd9.js"
   ]
 }
